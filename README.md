@@ -1,29 +1,31 @@
-# meditation_app
-#--UPDATES--
-#In this part of the application, we have activated the settings in the sidebar.
-#Before that,fingerprint authentication was added  to go loginPage. (Extra)
-#Therefore, there must be a fingerprint registered on the phone or emulator.
+# meditation_app Features
+Splash Screen
+Sign in / Sign up
+Play meditation tracks
+Getting images from Nasa API during meditation
+Measuring heart rate during meditation and storing the data
+Journaling (Entries as text or speech to text input)
+Sending notifications as "motivation of the day"
+Scheduling reminder notifications
+Fingerprint Authentication
+Disabled screen recording
+Jailbreak Detection
+Connectivity Support
 
-#Splash Screen already existed, the name of the application has been added to it,
-# and now our special icon and the name of our application appear on the phone.
-#Greeting part completed
+
 
 #SETTİNGS
-#JailBreak Detection,(Extra)
-#Connection Status,
-#Secure Stroge, added(Extra)
+JailBreak Detection,
+Connection Status,
+Secure Stroge, 
 
 #NOTİFİCATİON
-#On the notification page, there are two types of local notifications
-#that send motivational qoutes and also determine the content of the notification by  the user.
-#Alarm Manager is used in simple motivation notification
+On the notification page, there are two types of local notifications that send motivational qoutes and also determine the content of the notification by  the user.
+Alarm Manager is used in simple motivation notification.Firebase notification is also exist.
 
-#The page with motivating words is also found in the settings.
-
-# Window Manager has been added for screenshot and protection while the application is in the background.(Extra)
+# Window Manager has been added for screenshot and protection while the application is in the background.
 
 # Certificate pinning(pinSSL) was added in the meditation track
-#pinSSL file (Extra)
 
 
 A new Flutter project.
